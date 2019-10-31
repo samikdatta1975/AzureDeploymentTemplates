@@ -1,0 +1,4 @@
+az group create --name samikdemo3 --location Southeast Asia
+az group deployment create --resource-group samikdemo3 --template-uri https://raw.githubusercontent.com/samikdatta1975/AzureDeploymentTemplates/master/vmdeploy.json
+
+
