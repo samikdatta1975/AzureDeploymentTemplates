@@ -5,7 +5,7 @@
     "adminUsername": {
       "type": "string",
       "metadata": {
-        "description": "Please provide Usernames for the Virtual Machine."
+        "description": "Please provide Username for the Virtual Machines"
       }
     },
     "adminPassword": {
